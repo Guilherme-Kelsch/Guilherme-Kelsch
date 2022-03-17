@@ -1,5 +1,5 @@
 const iAm = { <br>
-  name: 'Guilherme de Freitas Kelsch',<br>
+  name: <b>'Guilherme de Freitas Kelsch',<b><br>
   aboutMe:<br>
     ' Gosto nas horas vagas curtir séries e filmes, além claro de um bom chimarrão em algum lugar com natureza',
     'Gosto do convivio social,tecnologia, artes marciais, filmes e musica.',<br>
