@@ -1,16 +1,16 @@
-### Hi there 👋
+const iAm = {
+  name: 'Guilherme de Freitas Kelsch',
+  aboutMe:
+    ' Gosto nas horas vagas curtir séries e filmes, além claro de um bom chimarrão em algum lugar com natureza',
+    'Gosto do convivio social,tecnologia, artes marciais, filmes e musica.',
+    ' Atualmente estou no Programa Starter Full Stack Web Developer da Growdev.',
+    ' E também estou cursando ADS - na FEEVALE.',
+ 
+  professional experiences:
+  ' Manuteção eletroeletrônica'.
+    
+   programming language I'm studying~:
+   ''Java','JavaScript','html''.
+ 
+};
 
-<!--
-**Guilherme-Kelsch/Guilherme-Kelsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
